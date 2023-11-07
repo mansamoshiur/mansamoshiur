@@ -1,4 +1,4 @@
-### Hi there 👋, Hello! Nice to see you.  I am Mansa Moshiur
+### Hi there 👋 Nice to see you.  I am Mansa Moshiur
 #### I am Front-End Web Application Developer
 ![I am Front-End Web Application Developer](https://res.cloudinary.com/dhi9a4gfz/image/upload/v1699374870/protfolio/tzj1dxflzvjwce0n75jg.jpg)
 
